@@ -1,5 +1,3 @@
-### Minhas Linguagens Mais Usadas
-![Top Langs](https://vercel.app)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
